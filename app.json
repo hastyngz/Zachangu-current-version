@@ -3,24 +3,31 @@
         "name": "Zachangu",
             "slug": "zachangu-taxi-app",
                 "version": "1.0.0",
-                    "platforms": ["ios", "android"],
-                        "orientation": "portrait",
-                            "icon": "./assets/icon.png",
-                                "splash": {
-                                      "image": "./assets/splash.png",
-                                            "resizeMode": "contain",
-                                                  "backgroundColor": "#ffffff"
-                                                      },
-                                                          "updates": {
-                                                                "fallbackToCacheTimeout": 0
-                                                                    },
-                                                                        "assetBundlePatterns": ["**/*"],
-                                                                            "jsEngine": "hermes",
-                                                                                "android": {
-                                                                                      "package": "com.zachangu.taxi"
-                                                                                          },
-                                                                                              "ios": {
-                                                                                                    "bundleIdentifier": "com.zachangu.taxi"
-                                                                                                        }
-                                                                                                          }
-                                                                                                          }
+                    "scheme": "zachangu",
+                        "platforms": ["ios", "android"],
+                            "orientation": "portrait",
+                                "icon": "./assets/icon.png",
+                                    "splash": {
+                                          "image": "./assets/splash.png",
+                                                "resizeMode": "contain",
+                                                      "backgroundColor": "#ffffff"
+                                                          },
+                                                              "updates": {
+                                                                    "fallbackToCacheTimeout": 0
+                                                                        },
+                                                                            "assetBundlePatterns": ["**/*"],
+                                                                                "jsEngine": "hermes",
+                                                                                    "android": {
+                                                                                          "package": "com.zachangu.taxi",
+                                                                                                "newArchEnabled": true
+                                                                                                    },
+                                                                                                        "ios": {
+                                                                                                              "bundleIdentifier": "com.zachangu.taxi"
+                                                                                                                  },
+                                                                                                                      "extra": {
+                                                                                                                            "eas": {
+                                                                                                                                    "projectId": "ec9c4c46-e14d-47db-8b01-7e54888ab3a5"
+                                                                                                                                          }
+                                                                                                                                              }
+                                                                                                                                                }
+                                                                                                                                                }
