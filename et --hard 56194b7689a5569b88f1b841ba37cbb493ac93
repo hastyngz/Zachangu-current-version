@@ -1,0 +1,23 @@
+[33mcommit 56194b7689a5569b88f1b841ba37cbb9f493ac93[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mzachangu-v3[m[33m, [m[1;31morigin/zachangu-v2[m[33m, [m[1;32mzachangu-v2[m[33m)[m
+Author: hastyngz <hastingszidanamot@gmail.com>
+Date:   Thu May 8 11:25:55 2025 +0000
+
+    Save working version as Zachangu V2
+
+[33mcommit b2bdae27382dbb4a31cc8ce11a70237fae5512b8[m[33m ([m[1;33mtag: [m[1;33mv1.0[m[33m, [m[1;31morigin/version-1.1[m[33m, [m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m, [m[1;32mversion-1.1[m[33m, [m[1;32mmain[m[33m)[m
+Author: hastyngz <hastingszidanamot@gmail.com>
+Date:   Thu May 1 23:46:43 2025 +0000
+
+    Updated files
+
+[33mcommit 083b14745e42d32c01267d90cc554405625d5321[m
+Author: hastyngz <hastingszidanamot@gmail.com>
+Date:   Thu May 1 18:31:01 2025 +0000
+
+    Add babel.config.js
+
+[33mcommit d020460fbc03c7c5f94c459f6c2c92a6630ffb50[m
+Author: hastyngz <hastingszidanamot@gmail.com>
+Date:   Wed Apr 30 11:36:35 2025 +0200
+
+    Add files via upload
